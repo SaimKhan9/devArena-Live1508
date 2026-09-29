@@ -71,3 +71,28 @@ npm run dev
 - **Interviewer**: Open [http://localhost:5173/](http://localhost:5173/) and click **"⚡ Create Interview"**.
 - **Candidate**: Open the generated invite link (or open an Incognito tab with [http://localhost:5173/?room=YOUR_ROOM_ID&role=candidate](http://localhost:5173/)).
 
+
+
+
+
+⚔️ Just shipped the DevArena Live Mobile App — built with Flutter! 📱
+
+After launching the web platform, the next step was clear — bring the full interview experience to mobile.
+
+Now you can conduct or attend a live technical interview right from your phone. No laptop needed.
+
+📱 What the app offers:
+📹 Live video & audio calls — WebRTC powered, crystal clear
+⌨️ Collaborative code editor — real-time sync with web users too
+▶️ Run code directly from your phone — 50+ languages supported
+💬 Live chat — seamless communication between interviewer & candidate
+🎙️ Full mic & camera controls — manage your session with ease
+
+🛠️ Tech Stack:
+Flutter · Dart · Socket.IO · Flutter WebRTC · Provider · Judge0 API · SharedPreferences
+
+The coolest part?
+An interviewer on web and a candidate on mobile — both typing, both seeing, both in perfect real-time sync. ⚡
+
+Building cross-platform real-time sync was the hardest and most rewarding challenge I've tackled as a developer so far. Every bug taught me something new. 🚀
+
